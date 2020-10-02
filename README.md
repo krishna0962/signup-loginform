@@ -1,4 +1,4 @@
-# signup-loginform
+# signup-login-form
 Signup &amp; Login form using php and mysql.
 <p>1.Install the XAMPP control panel.<br>
 2.Create a mysql database.<br>
